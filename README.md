@@ -8,6 +8,18 @@ Persistent project memory for Claude Code, Codex, and other AI Coding Agents.
 
 ---
 
+## Demo
+
+Without MemoryFusion, asking "what did this code change?" returns vague, unhelpful responses:
+
+![Before MemoryFusion](before.png)
+
+With MemoryFusion installed, the same question surfaces concrete session history and pinpoint edits:
+
+![After MemoryFusion](after.png)
+
+---
+
 ## The Problem
 
 AI Coding Agents dramatically improve development efficiency, but they share a
