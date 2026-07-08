@@ -12,11 +12,11 @@ Persistent project memory for Claude Code, Codex, and other AI Coding Agents.
 
 Without MemoryFusion, asking "what did this code change?" returns vague, unhelpful responses:
 
-![Before MemoryFusion](before.png)
+![Before MemoryFusion](images/before.png)
 
 With MemoryFusion installed, the same question surfaces concrete session history and pinpoint edits:
 
-![After MemoryFusion](after.png)
+![After MemoryFusion](images/after.png)
 
 ---
 

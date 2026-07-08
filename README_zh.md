@@ -12,11 +12,11 @@
 
 没有 MemoryFusion 时，问"这个代码改过什么"只能得到模糊的回复，查不到具体的改动历史：
 
-![安装前](before.png)
+![安装前](images/before.png)
 
 安装 MemoryFusion 之后，同样的问题可以直接索引历史会话，精准定位每一次修改操作：
 
-![安装后](after.png)
+![安装后](images/after.png)
 
 ---
 
